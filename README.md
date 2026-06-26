@@ -1,7 +1,8 @@
 <div align="center">
-
-  <img width="330" height="279" alt="new_logo" src="https://github.com/user-attachments/assets/d9d67d10-179b-4f31-add1-3ac8283ebcdc" style="mix-blend-mode: screen;" />
-
+  <img width="240" height="203" alt="new_logo" src="https://github.com/user-attachments/assets/d9d67d10-179b-4f31-add1-3ac8283ebcdc" style="mix-blend-mode: screen;" />
+  
+  <h1>REVX</h1>
+  Low-Latency System & Workstation Optimizer
 </div>
 <hr />
 <br />
