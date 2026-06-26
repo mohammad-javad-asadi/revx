@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- لوگوی اصلی RevX که بالاتر با نئون سبز طراحی کردی رو اینجا آپلود کن -->
-  ![RevX Logo](آدرس_آپلود_لوگوی_اصلی)
+  ![RevX Logo](<img width="330" height="279" alt="new_logo" src="https://github.com/user-attachments/assets/d9d67d10-179b-4f31-add1-3ac8283ebcdc" />)
 
 </div>
 <hr />
