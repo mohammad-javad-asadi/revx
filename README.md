@@ -13,10 +13,10 @@
 **1.** [**About RevX**](#about-revx)  
 **2.** [**How it works?**](#how-it-works)  
 **3.** [**🔌 Hardware-Aware Power Orchestration**](#-hardware-aware-power-orchestration)  
-**4.** [**Key Performance Tweaks**](#key-performance-tweaks)  
-**5.** [**🧠 CPU Optimization Architecture**](#-cpu-optimization-architecture)  
-**6.** [**🎮 GPU & Graphics Optimization Suite**](#-gpu--graphics-optimization-suite)  
-**7.** [**🖥️ REVX Crystal Display & Color Engines**](#%EF%B8%8F-revx-crystal-display--color-engines)  
+**4.** [**🖥️ REVX Crystal Display & Color Engines**](#%EF%B8%8F-revx-crystal-display--color-engines)  
+**5.** [**Key Performance Tweaks**](#key-performance-tweaks)  
+**6.** [**🧠 CPU Optimization Architecture**](#-cpu-optimization-architecture)  
+**7.** [**🎮 GPU & Graphics Optimization Suite**](#-gpu--graphics-optimization-suite)  
 **8.** [**💾 Memory & Storage Pipeline Tweaks**](#-memory--storage-pipeline-tweaks)  
 **9.** [**🌐 Advanced TCP/IP & Network Optimizer**](#-advanced-tcpip--network-optimizer)  
 **10.** [**⚡ Built-in Network Diagnostic Tools**](#-built-in-network-diagnostic-tools)  
@@ -31,7 +31,7 @@
 <div align="center">
   <a href="https://github.com/mohammad-javad-asadi/revx/releases/latest"><img src="https://img.shields.io/badge/Download-Stable-green?style=for-the-badge&logo=github&logoSize=auto" alt="Stable release"></a>
   <img src="https://img.shields.io/badge/Status-100%25_Free-brightgreen?style=for-the-badge&logo=github" alt="Free Status">
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge" alt="License">
 </div>
 
 ## About RevX
@@ -52,7 +52,7 @@
 ---
 
 ## How it works?
-Windows defaults are heavily cluttered with background telemetry, severe power throttling, and inefficient scheduling. **RevX** applies targeted, low-level kernel and service tweaks to bypass default OS bottlenecks, allowing your hardware to work directly for your active applications.
+Windows defaults are heavily cluttered with background telemetry, severe power throttling, and inefficient scheduling. **RevX`** applies targeted, low-level kernel and service tweaks to bypass default OS bottlenecks, allowing your hardware to work directly for your active applications.
 
 <div align="center">
 
@@ -378,4 +378,4 @@ Please check the built-in documentation inside the dashboard or check our upcomi
 ---
 
 ## License
-This project is licensed under the **MIT License** - meaning you are completely free to use, modify, and distribute the software.
+This project is licensed under the GNU General Public License v3.0 (GPLv3). You are free to use and modify the software, but any derivative work or distributed version must also be open-source and free under the exact same license. Commercial exploitation without a custom license agreement is strictly prohibited.
