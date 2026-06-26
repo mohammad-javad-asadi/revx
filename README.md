@@ -1,7 +1,6 @@
 <div align="center">
 
-  <!-- لوگوی اصلی RevX که بالاتر با نئون سبز طراحی کردی رو اینجا آپلود کن -->
-  ![RevX Logo](<img width="330" height="279" alt="new_logo" src="https://github.com/user-attachments/assets/d9d67d10-179b-4f31-add1-3ac8283ebcdc" />)
+  <img width="330" height="279" alt="new_logo" src="https://github.com/user-attachments/assets/d9d67d10-179b-4f31-add1-3ac8283ebcdc" style="mix-blend-mode: screen;" />
 
 </div>
 <hr />
@@ -13,7 +12,6 @@
 **2.** [**How it works?**](#how-it-works)  
 **3.** [**Key Performance Tweaks**](#key-performance-tweaks)  
 **4.** [**Workstation & Rendering Boost**](#workstation--rendering-boost)  
-**5.** [**Installation & Safety**](#installation--safety)  
 **6.** [**Configuration**](#configuration)
 
 <br />
@@ -26,13 +24,18 @@
 ## About RevX
 
 **RevX** is a low-latency, high-responsiveness Windows system optimizer designed specifically for gamers, power users, and 3D digital artists. It completely eliminates unnecessary OS resource hogging to stabilize your system's performance.
+> [!WARNING]
+> **The Ugly Truth About Traditional Optimizers:** 
+> Most generic optimizers on GitHub or the market are filled with **fake claims**, or worse—they blindly apply destructive registry hacks and forced overclocks that can **permanently damage your hardware, trigger thermal throttling, or cause random Blue Screens (BSOD).** At best, they do absolutely nothing; at worst, they ruin your system stability because they are not tailored to your specific machine.
+
+> [!NOTE]
+> **The RevX Difference (Hardware-Aware Dynamic Tuning):**
+> RevX doesn't use dangerous "one-size-fits-all" scripts. Our engine deeply analyzes your exact rig before applying a single tweak. It detects whether you are on a **Desktop PC** or a **Laptop**, calculates your system's **Thermal Capacity**, and intelligently tunes frame pacing, input latency, network stability, and power efficiency without pushing your hardware to unsafe limits.
 
 > [!IMPORTANT]
 > * **RevX is 100% FREE and Open-Source.** We do not have any premium tiers, hidden paywalls, or subscription models. 
 > * **Beware of Scams:** Any website or app charging money for RevX is a fraudulent copy. Only download from this official GitHub repository.
 
-> [!NOTE]
-> *Unlike standard optimizers that promise fake "300% FPS increases" by overclocking or blindly breaking registry keys, RevX focuses on **Frame Pacing, Input Latency reduction, Network stability, and Power efficiency**.*
 
 ---
 
